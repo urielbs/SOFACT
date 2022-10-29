@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../CODE/Bootcamp fullstack"
+		},
+		{
+			"path": "../../bootstrap-4-login-page-master"
+		},
+		{
+			"path": "../../../../../CODE/Proyecto"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react-drop-file-input-main"
+	}
+}
